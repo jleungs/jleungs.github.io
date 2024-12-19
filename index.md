@@ -4,7 +4,7 @@ layout: default
 
 ## Welcome
 
-<img src="img/me_square_crop.jpeg" style="float: left; margin-left: 15px; margin-right: 25px; margin-bottom: 15px;" width="210" height="260" />
+<img class="profile-picture" src="img/me_square_crop.jpeg">
 PhD student in mathematics at University of West London, supervised by Dr. [Thomas Madsen](https://scholar.google.co.uk/citations?user=_bnpreUAAAAJ){:target="_blank"}, with focus on differential geometry.
 
 Also professional experience as a consultant in cybersecurity, worked with penetration testing and incident response. Particularly enjoy Linux forensics, reverse engineering, and malware analysis.
