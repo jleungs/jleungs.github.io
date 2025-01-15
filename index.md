@@ -2,44 +2,17 @@
 layout: default
 ---
 
-## About Me
+## Welcome
 
-<img class="profile-picture" src="sherlock.jpg">
+<img src="assets/img/me_square_crop.jpeg" style="float: left; margin-left: 15px; margin-right: 25px; margin-bottom: 15px;" width="210" height="260" />
+PhD student in mathematics at University of West London, supervised by Dr. [Thomas Madsen](https://scholar.google.co.uk/citations?user=_bnpreUAAAAJ){:target="_blank"}, with focus on differential geometry.
 
-Hi! I am a junior year student of B.E. Computer Science at Birla Institute of Technology and Science, Pilani.
+Also professional experience as a consultant in cybersecurity, worked with penetration testing and incident response. Particularly enjoy Linux forensics, reverse engineering, and malware analysis.
 
-This is a jekyll based resume template. You can find the full source code on [GitHub](https://github.com/bk2dcradle/researcher)
-
-## Research Interest
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam finibus ipsum ac erat aliquam dapibus. Vestibulum vehicula placerat ex, a consectetur odio pharetra quis. Mauris id urna ante. Fusce pharetra diam ac nisi aliquet, vel egestas ex iaculis. Pellentesque laoreet cursus tellus sed pellentesque. Praesent a rhoncus elit. Nunc ipsum nisl, consequat sit amet pretium quis, gravida id ipsum.
-
-## Publications
-
-1. F.Bar, J.Doe: Effects of having a placeholder of a name
-2. S.Holmes, J.Watson: Consequences of living with a sociopath in London
-
-## Typography
-
-This is a [link](http://google.com). Something *italics* and something **bold**.
-
-Here is a table
-
-Year | Award | Category
------|-------|--------
-2014 | Emmy  | Won Outstanding Lead Actor in a miniseries or a movie
-2015 | BAFTA | Nominated for Best Leading Actor for Sherlock
-2014 | Satellite | Won Best Actor miniseries or television film
-
-Here is a horizontal rule
-
+<div style="clear: both;"></div>
 ---
 
-Here is a blockquote
+## Research
 
-> To a great mind, nothing is little
+Interested in special toric geometries, i.e. studying n-manifolds with holonomy being a proper subgroup of $$SO(n)$$ and an effective Hamiltonian torus action. Additionally, I am also interested in applications of differential geometry and symmetry in other fields, such as group invariant machine learning and continuous game theory.
 
-## References
-
-* Foo Bar: Head of Department, Placeholder Names, Lorem
-* John Doe: Associate Professor, Department of Computer Science, Ipsum
