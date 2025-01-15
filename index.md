@@ -14,5 +14,5 @@ Also professional experience as a consultant in cybersecurity, worked with penet
 
 ## Research
 
-Interested in special toric geometries, i.e. studying $$n$$ dimensional manifolds with holonomy being a proper subgroup of $$SO(n)$$ equipped with a torus action. Additionally, I am also interested in applications of differential geometry and symmetry in other fields, such as group invariant machine learning and continuous game theory.
+Interested in special toric geometries, i.e. studying $$n$$-dimensional manifolds with holonomy being a proper subgroup of $$SO(n)$$ equipped with a torus action. Additionally, I am also interested in applications of differential geometry and symmetry in other fields, such as group invariant machine learning and continuous game theory.
 
