@@ -8,7 +8,7 @@ markdown: kramdown
 tracking_id: #
 
 footer: yes
-footer_text: &#169; {{ 'now' | date: "%Y" }} Jonathan Leung
+footer_text: "&#169; {{ 'now' | date: '%Y' }} Jonathan Leung"
 
 sass:
     style: compressed
