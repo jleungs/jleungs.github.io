@@ -14,7 +14,7 @@ sass:
     sass_dir: _sass
 
 nav:
- - name: "Posts"
-   link: "posts"
- - name: "Projects"
-   link: "projects"
+  #- name: "Posts"
+  #link: "posts"
+  #- name: "Projects"
+  #link: "projects"
